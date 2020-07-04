@@ -1,4 +1,4 @@
-# word splash
+# WordSplash
 基于pixijs的文字飞溅特效
 
 
