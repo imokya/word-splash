@@ -4,10 +4,10 @@
 
 
 ## 使用
-1. 引入
+
 ``` javascript
 npm run serve
 npm run build
 ```
 
-[![preview](https://raw.githubusercontent.com/imokya/xcutter/master/snapshot.png)](https://github.com/imokya/xcutter)
+[![preview](https://raw.githubusercontent.com/imokya/word-splash/master/src/assets/cover.png)](https://github.com/imokya/word-splash)
